@@ -1,0 +1,41 @@
+.login{
+    justify-content: center;
+    align-items: center;
+}
+img{
+    width: 150px;
+    margin-bottom: 40px;
+    display: block;
+    height: auto;
+    object-fit: contain;
+    
+    
+}
+h2{
+    text-align: left;
+    font-family: 'DM Sans', sans-serif;
+    font-weight: 500;
+    margin: 10px 0;
+}
+h4{
+    font-family: 'DM Sans', sans-serif;
+    margin: 6px 0 2px 0;
+  font-weight: 100;
+  width: 100%;
+  text-align: left;
+  margin-top: 20px;
+}
+input{
+    background: none;
+    padding: 12px 35px;
+    border: 1px solid white;
+   
+}
+p{
+    font-family: 'DM Sans', sans-serif;
+    text-align: center;
+}
+button{
+    padding: 12px 35px;
+    
+}

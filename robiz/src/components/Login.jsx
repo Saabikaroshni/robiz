@@ -1,9 +1,9 @@
 import React from 'react'
-
+import '../styles/login.css'
 const Login = () => {
   return (
     <div>
-        <div>
+        <div className='login'>
             <img src="/logo2.png" alt="Company Logo" />
             <h2>Log In</h2>
             <h4>Mobile Number</h4>
