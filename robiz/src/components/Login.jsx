@@ -5,7 +5,7 @@ const Login = () => {
     <div>
         <div className='login'>
             <img src="/logo2.png" alt="Company Logo" />
-            <h2>Log In</h2>
+            <h2 className='login-h'>Log In</h2>
             <h4>Mobile Number</h4>
             <input type="text"/>
             <h4>Password</h4>
